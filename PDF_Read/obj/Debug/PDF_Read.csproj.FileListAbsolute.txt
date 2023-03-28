@@ -1,0 +1,9 @@
+C:\Users\1\Documents\Visual Studio 2008\Projects\PDF_Read\PDF_Read\bin\Debug\PDF_Read.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\PDF_Read\PDF_Read\bin\Debug\PDF_Read.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\PDF_Read\PDF_Read\bin\Debug\itextsharp.dll
+C:\Users\1\Documents\Visual Studio 2008\Projects\PDF_Read\PDF_Read\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\PDF_Read\PDF_Read\obj\Debug\PDF_Read.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\PDF_Read\PDF_Read\obj\Debug\PDF_Read.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\PDF_Read\PDF_Read\obj\Debug\PDF_Read.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\PDF_Read\PDF_Read\obj\Debug\PDF_Read.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\PDF_Read\PDF_Read\obj\Debug\PDF_Read.PDF_Read.resources
